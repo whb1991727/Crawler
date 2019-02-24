@@ -1,2 +1,1 @@
-# Crawler
-Crawler project 
+AI Learning is easy
